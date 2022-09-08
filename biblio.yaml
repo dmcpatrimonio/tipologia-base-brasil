@@ -185,6 +185,30 @@ references:
   title: Arquitectura popular dos Açores
   type: book
 
+- id: caniggia:1997analisi
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  citation-key: caniggia:1997analisi
+  container-title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  event-place: Firenze
+  ISBN: 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: it
+  original-date:
+    - year: 1981
+  page: 59–107
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: 'Analisi tipologica: la corte matrice dell’insediamento'
+  title-short: Analisi tipologica
+  type: chapter
+
 - id: caniggia:1997metodologia
   author:
     - family: Caniggia
@@ -354,6 +378,41 @@ references:
     its territory
   title-short: Mértola
   type: book
+
+- id: costa:2015moradas
+  author:
+    - family: Costa
+      given: Miguel Reimão
+  call-number: NA7414 .A77 2015
+  citation-key: costa:2015moradas
+  container-title: >-
+    Arquitetura Tradicional no Mediterrâneo Ocidental = Traditional architecture
+    in the western Mediterranean
+  editor:
+    - family: Costa
+      given: Miguel Reimão
+    - family: Gómez Martínez
+      given: Susana
+    - family: Ribeiro
+      given: Vítor
+  event-place: 'Lisboa : Mértola'
+  event-title: >-
+    1o Congresso Internacional: Mértola, 13, 14 e 15 de maio de 2015 = 1st
+    International Conference: Mértola, 13th, 14th and 15th May 2015
+  ISBN: 978-972-8479-85-5
+  issued:
+    - year: 2015
+  language: pt-PT
+  page: 13-19
+  publisher: Argumentum ; Campo Arqueológico de Mértola
+  publisher-place: 'Lisboa : Mértola'
+  source: Library of Congress ISBN
+  title: >-
+    As moradas de casas do núcleo intramuros de Mértola: uma leitura preliminar
+    da arquitetura doméstica entre o final do Antigo Regime e o início do século
+    <span class="smallcaps">XX</span>
+  title-short: As moradas de casas do núcleo intramuros de Mértola
+  type: paper-conference
 
 - id: duarte:2020traditional
   author:
@@ -950,6 +1009,27 @@ references:
   language: pt-PT
   title: Arquitectura tradicional de Goa
   type: book
+
+- id: mestre:2016mito
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Mestre
+      given: Victor
+  citation-key: mestre:2016mito
+  collection-title: Patrimónios de Influência Portuguesa
+  container-title: Cabo dos Trabalhos
+  ISSN: 2182-9187
+  issue: '12'
+  issued:
+    - year: 2016
+  language: pt-PT
+  source: Zotero
+  title: O mito do modelo perfeito da casa popular de origem portuguesa
+  type: article-journal
+  URL: https://cabodostrabalhos.ces.uc.pt/n12/ensaios.php
 
 - id: moutinho:1995arquitectura
   author:

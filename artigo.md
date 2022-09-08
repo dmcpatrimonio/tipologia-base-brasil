@@ -1,5 +1,5 @@
 ---
-title: "Tipologia de casas tradicionais luso-brasileiras segundo a profundidade visual"
+title: "Tipologia de casas urbanas luso-brasileiras segundo a profundidade visual"
 author:
 - Eduarda Toscano de Carvalho[^1]
 - Pedro P. Palazzo[^2]
@@ -16,7 +16,40 @@ bibliography: "biblio.yaml"
 
 # Base teórica #
 
-## Tipologia processual ##
+## Processo tipológico ##
+
+A série tipológica de casas luso-brasileiras segue os princípios
+descritos por Caniggia [-@caniggia:1997metodologia] para a edilícia de
+base de matriz mediterrânea: a derivação diacrônica a partir da célula
+singular, de pequenas dimensões (3,5 a 5,5 metros de vão estrutural), e
+a precedência dos tipos rurais sobre a formação de tipos urbanos. Este
+processo resulta na série tipológica das chamadas "moradas de casas",
+predominante no sul de Portugal [@costa:2015moradas]. No entanto, a
+tipologia de origem portuguesa diverge da matriz mediterrânea ao
+prescindir do pátio enquanto elemento estruturante da composição
+arquitetônica [@caniggia:1997analisi]. As tradições edilícias em
+Portugal se organizam, então, por meio de diversas estratégias
+compositivas que geram diferentes tipologias regionais
+[@moutinho:1995arquitectura]. A identificação dessa diversidade, em
+detrimento do mito de uma "casa portuguesa" singular e originária, foi o
+marco inicial do estudo sistemático da edilícia de base de origem
+portuguesa [@mestre:2016mito].
+
+A nomenclatura habitual dos tipos edilícios de base no Brasil não
+recobre todas as manifestações da morada tradicional e, pior ainda, não
+tem consistência descritiva. Designações sócio-históricas, como a de
+"casa bandeirista", coexistem com outras vagamente descritivas da
+morfologia das plantas, tais como "meia-morada" ou "morada-inteira".
+Ademais, essa nomenclatura é pouco relevante para se retroceder às
+matrizes tipológicas da casa luso-brasileira em Portugal continental ou
+nas ilhas atlânticas. Desde o *Inquérito* que a classificação
+hegemônica da arquitetura tradicional portuguesa opera por tipos
+regionais [por exemplo em @moutinho:1995arquitectura;
+@mascarenhas:2015arquitectura].
+
+Assim, sem pretender instituir uma nomenclatura universal, propomos o
+diagrama abaixo como forma de padronizar algumas classificações
+empregadas neste artigo.
 
 ## Casa brasileira ##
 
@@ -86,23 +119,6 @@ dos comportamentos domésticos. A principal será a adição de uma zona de
 urbano, por esta mesma época, provoca uma compactação e reorganização da
 circulação interior da morada, com eventual reposicionamento das zonas
 "íntima" e "social" [@lemos:1999republica; @lemos:1989alvenaria].
-
-## Nomenclatura tipológica da casa luso-brasileira ##
-
-A nomenclatura habitual dos tipos edilícios de base no Brasil não
-recobre todas as manifestações da morada tradicional e, pior ainda, não
-tem consistência descritiva. Designações sócio-históricas, como a de
-"casa bandeirista", coexistem com outras vagamente descritivas da
-morfologia das plantas, tais como "meia-morada" ou "morada-inteira".
-Ademais, essa nomenclatura é pouco relevante para se retroceder às
-matrizes tipológicas da casa luso-brasileira em Portugal continental ou
-nas ilhas atlânticas. Desde o *Inquérito* que a classificação hegemônica
-da arquitetura tradicional portuguesa opera por tipos regionais [por
-exemplo em @moutinho:1995arquitectura; @mascarenhas:2015arquitectura].
-
-Assim, sem pretender instituir uma nomenclatura universal, propomos o
-diagrama abaixo como forma de padronizar algumas classificações
-empregadas neste artigo.
 
 # Metodologia #
 
