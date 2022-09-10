@@ -658,6 +658,89 @@ references:
   title: A reconstrução de Lisboa e a arquitectura pombalina
   type: book
 
+- id: freyre:1951sobrados
+  author:
+    - family: Freyre
+      given: Gilberto
+  citation-key: freyre:1951sobrados
+  edition: '2'
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1951
+  language: pt-BR
+  publisher: José Olympio
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Sobrados e mucambos
+  type: book
+
+- id: freyre:2003casagrande
+  author:
+    - family: Freyre
+      given: Gilberto
+  citation-key: freyre:2003casagrande
+  edition: '48'
+  event-place: São Paulo
+  ISBN: 978-85-260-0869-4
+  issued:
+    - year: 2003
+  language: pt-BR
+  publisher: Global
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Casa-grande & senzala: formação da família brasileira sob o regime da
+    economia patriarcal
+  title-short: Casa-grande & senzala
+  type: book
+
+- id: gil:2015space10
+  abstract: >-
+    The "Space Syntax Toolkit" is a QGIS plug-in for spatial network and
+    statistical analysis. It provides a front-end for the depthmapX software
+    within QGIS, offering user-friendly space syntax analysis workflows in a GIS
+    environment. It is primarily aimed at supporting the space syntax
+    methodology, and enhancing it with GIS data, analysis and visualisation
+    features. Nevertheless, its functionality is of general benefit to QGIS
+    users by introducing tools for exploratory spatial data analysis. In this
+    article we present the "Space Syntax Toolkit", describing its principles and
+    implementation, the features of its two initial modules - "Graph Analysis"
+    and "Attribute Explorer" - and give indication of future developments.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 24
+  author:
+    - family: Gil
+      given: J.
+    - family: Varoudis
+      given: T.
+    - family: Karimi
+      given: K.
+    - family: Penn
+      given: A.
+  citation-key: gil:2015space10
+  container-title: SSS 2015
+  event-place: London
+  event-title: 10th International Space Syntax Symposium
+  issued:
+    - year: 2015
+      month: 7
+      day: 17
+  language: en-GB
+  publisher: >-
+    Space Syntax Laboratory, The Bartlett School of Architecture, University
+    College London
+  publisher-place: London
+  source: discovery.ucl.ac.uk
+  title: >-
+    The space syntax toolkit: Integrating DepthmapX and exploratory spatial
+    analysis workflows in <span class="smallcaps">QGIS</span>
+  title-short: The space syntax toolkit
+  type: paper-conference
+  URL: http://www.sss10.bartlett.ucl.ac.uk/proceedings/
+  volume: '10'
+
 - id: gurgel:2017aliando6
   abstract: >-
     Este artigo tem como intenção apresentar e avaliar a metodologia de ensino
@@ -911,6 +994,24 @@ references:
   type: article-journal
   URL: http://www.e-publicacoes.uerj.br/index.php/geouerj/article/view/14407
   volume: '2'
+
+- id: malta:2013casas
+  citation-key: malta:2013casas
+  editor:
+    - family: Malta
+      given: Marize
+    - family: Mendoça
+      given: Isabel Mayor Godinho
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87145-58-1
+  issued:
+    - year: 2013
+  language: pt-BR
+  publisher: Editora <span class="smallcaps">UFRJ</span>
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Casas senhoriais Rio-Lisboa e seus interiores
+  type: book
 
 - id: martins:1978partido
   author:
@@ -1210,6 +1311,21 @@ references:
   title-short: A casa de Porto Seguro
   type: thesis
   URL: http://repositorio.ufes.br/handle/10/2121
+
+- id: reis:1969lote
+  author:
+    - family: Reis Filho
+      given: Nestor Goulart
+  citation-key: reis:1969lote
+  event-place: São Paulo
+  issued:
+    - year: 1969
+  language: pt-BR
+  publisher: <span class="smallcaps">FAUUSP</span>
+  publisher-place: São Paulo
+  source: dedalus.usp.br Library Catalog
+  title: Lote urbano e a arquitetura no brasil
+  type: book
 
 - id: reis:1983quadro
   author:
@@ -1521,6 +1637,26 @@ references:
     Aveiro
   type: article-journal
   URL: https://impactum-journals.uc.pt/digitar/article/view/_1_12
+
+- id: sousa:1994arquitetura
+  author:
+    - family: Sousa
+      given: Alberto José
+      dropping-particle: de
+  citation-key: sousa:1994arquitetura
+  edition: 1. ed
+  event-place: São Paulo
+  ISBN: 978-85-7266-038-9
+  issued:
+    - year: 1994
+  language: pt-BR
+  number-of-pages: '120'
+  publisher: Pini
+  publisher-place: São Paulo
+  source: K10plus ISBN
+  title: 'Arquitetura neoclássica brasileira: um reexame'
+  title-short: Arquitetura neoclássica brasileira
+  type: book
 
 - id: teixeira:2004descricao
   accessed:

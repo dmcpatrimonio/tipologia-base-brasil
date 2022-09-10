@@ -14,9 +14,42 @@ bibliography: "biblio.yaml"
 
 # Introdução #
 
-# Base teórica #
+A história da morada urbana luso-brasileira tem, atualmente, uma
+narrativa consolidada a partir de décadas de estudos generalistas, desde
+os primeiros ensaios interpretativos por Gilberto Freyre
+[-@freyre:1951sobrados] até as sínteses canônicas por Carlos Lemos
+[-@lemos:1996historia] e Nestor Goulart [-@reis:1969lote] no terceiro
+quartel do século XX. Esta narrativa toma como ponto de partida a
+correspondência direta entre o sistema escravista e a configuração
+espacial da casa corrente urbana, tida como dependente da servidão
+doméstica para os mínimos confortos [@reis:1983quadro, p. 29]. Mais
+ainda, o contraste ao longo do século XIX entre a renovação estética das
+fachadas sob o classicismo imperial [nomenclatura proposta por
+@sousa:1994arquitetura, p. 25] e a persistência de distribuições
+tradicionais evidencia, segundo Mário Maestri [-@maestri:2001sobrado, p.
+56], a persistência e relativa uniformidade do modelo escravista
+brasileiro.
 
-## Processo tipológico ##
+Pesquisas mais especializadas têm relativizado esse panorama de
+uniformidade e especificidade da morada urbana de dois modos: primeiro,
+mostrando semelhanças morfológicas entre a casa corrente urbana e a
+morada rural ao longo do século XIX, como na documentação realizada por
+Neide Marins [-@martins:1978partido] no interior de São Paulo; segundo,
+chamando atenção para a tipologia da morada senhorial, objeto de
+aprofundados estudos neste século por grupos de pesquisa
+luso-brasileiros [@malta:2013casas].
+
+Na esteira de tais pesquisas, este artigo analisa comparativamente a
+morfologia da morada urbana luso-brasileira nos séculos XVIII e XIX,
+confrontando as configurações de casas correntes e moradas senhoriais.
+Os gráficos de profundidade visual gerados pelo programa DepthmapX
+[@gil:2015space10] sobre plantas de casas evidenciam duas séries
+tipológicas distintas que confirmam a diferença morfológica essencial
+entre as casas correntes e as senhoriais. Essa diferença reflete um
+matiz mais complexo de relações entre privacidade e publicidade da vida
+social entre as elites do Brasil escravista.
+
+# Tipologia das casas luso-brasileiras #
 
 A série tipológica de casas luso-brasileiras segue os princípios
 descritos por Caniggia [-@caniggia:1997metodologia] para a edilícia de
@@ -24,16 +57,29 @@ base de matriz mediterrânea: a derivação diacrônica a partir da célula
 singular, de pequenas dimensões (3,5 a 5,5 metros de vão estrutural), e
 a precedência dos tipos rurais sobre a formação de tipos urbanos. Este
 processo resulta na série tipológica das chamadas "moradas de casas",
-predominante no sul de Portugal [@costa:2015moradas]. No entanto, a
+predominante no sul de Portugal [@costa:2015moradas].
+
+No entanto, a
 tipologia de origem portuguesa diverge da matriz mediterrânea ao
 prescindir do pátio enquanto elemento estruturante da composição
 arquitetônica [@caniggia:1997analisi]. As tradições edilícias em
 Portugal se organizam, então, por meio de diversas estratégias
-compositivas que geram diferentes tipologias regionais
+compositivas que geram diferentes tipologias regionais. Estas partem
+desde bases extremamente elementares que não permitem a regressão a um
+tipo historicamente atestado, e de resto respondem a condicionantes
+climáticas e materiais intrinsecamente diversos
 [@moutinho:1995arquitectura]. A identificação dessa diversidade, em
 detrimento do mito de uma "casa portuguesa" singular e originária, foi o
 marco inicial do estudo sistemático da edilícia de base de origem
 portuguesa [@mestre:2016mito].
+
+Descrever as linhagens tipológicas da morada portuguesa é ainda mais
+desafiador uma vez que a habitação urbana, ao menos da Idade Moderna em
+diante, tende a aderir aos tipos de casas correntes universalmente
+difundidos na Europa ocidental, com corredor longitudinal e alcovas.
+Esses tipos foram documentados por Sebastiano Serlio no seu Sexto Livro
+de Arquitetura, *Delle habitationi fuori e dentro della città*
+[@serlio:1547sesto].
 
 A nomenclatura habitual dos tipos edilícios de base no Brasil não
 recobre todas as manifestações da morada tradicional e, pior ainda, não
@@ -46,10 +92,6 @@ nas ilhas atlânticas. Desde o *Inquérito* que a classificação
 hegemônica da arquitetura tradicional portuguesa opera por tipos
 regionais [por exemplo em @moutinho:1995arquitectura;
 @mascarenhas:2015arquitectura].
-
-Assim, sem pretender instituir uma nomenclatura universal, propomos o
-diagrama abaixo como forma de padronizar algumas classificações
-empregadas neste artigo.
 
 ## Casa brasileira ##
 
