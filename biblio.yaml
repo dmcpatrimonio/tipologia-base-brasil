@@ -82,6 +82,18 @@ references:
     https://www.researchgate.net/publication/308726163_A_BIM_for_the_identity_of_historic_urban_landscapes_Integrated_applications_of_survey_for_the_Certosa_di_Bologna_architectural_heritage
   volume: '9'
 
+- id: arquitectura:1961
+  citation-key: arquitectura:1961
+  event-place: Lisboa
+  issued:
+    - year: 1961
+  language: pt
+  number-of-volumes: '2'
+  publisher: Sindicato Nacional dos Arquitectos
+  publisher-place: Lisboa
+  title: Arquitectura popular em Portugal
+  type: book
+
 - id: baganha:2016arquitetura
   author:
     - family: Baganha
@@ -848,6 +860,41 @@ references:
   title-short: Alvenaria burguesa
   type: book
 
+- id: lemos:1996historia
+  author:
+    - family: Lemos
+      given: Carlos Alberto Cerqueira
+  citation-key: lemos:1996historia
+  event-place: São Paulo
+  ISBN: 978-85-85134-53-2
+  issued:
+    - year: 1996
+  language: Portuguese
+  publisher: Contexto
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: História da casa brasileira
+  type: book
+
+- id: lemos:1999casa
+  author:
+    - family: Lemos
+      given: Carlos A[lberto] C[erqueira]
+  citation-key: lemos:1999casa
+  event-place: São Paulo
+  ISBN: 978-85-314-0471-9
+  issued:
+    - year: 1999
+  language: Portuguese
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Casa paulista: história das moradias anteriores ao ecletismo trazido pelo
+    café
+  title-short: Casa paulista
+  type: book
+
 - id: lemos:1999republica
   author:
     - family: Lemos
@@ -958,6 +1005,29 @@ references:
   language: pt-BR
   publisher-place: Formosa
   title: Formosa em retinas idosas
+  type: book
+
+- id: maestri:2001sobrado
+  author:
+    - family: Maestri
+      given: Mário
+  call-number: NA2543.R37 M34 2001
+  citation-key: maestri:2001sobrado
+  collection-number: '1'
+  collection-title: Coleção Malungo
+  event-place: Passo Fundo
+  ISBN: 978-85-7515-013-9
+  issued:
+    - year: 2001
+  language: pt-BR
+  number-of-pages: '248'
+  publisher: <span class="smallcaps">UPF</span> Editora
+  publisher-place: Passo Fundo
+  source: Library of Congress ISBN
+  title: >-
+    O sobrado e o cativo: a arquitetura urbana erudita no Brasil escravista: o
+    caso gaúcho
+  title-short: O sobrado e o cativo
   type: book
 
 - id: maia:2014normativas
@@ -1146,6 +1216,25 @@ references:
   publisher-place: Lisboa
   source: Open WorldCat
   title: Arquitectura popular portuguesa
+  type: book
+
+- id: oliveira:1986casas
+  author:
+    - family: Oliveira
+      given: Ernesto Veiga
+      dropping-particle: de
+    - family: Galhano
+      given: Fernando
+  citation-key: oliveira:1986casas
+  event-place: Recife
+  ISBN: 978-85-7010-014-6
+  issued:
+    - year: 1986
+  language: pt-BR
+  publisher: Pool Editorial
+  publisher-place: Recife
+  source: Open WorldCat
+  title: Casas esguias do Porto e sobrados do Recife
   type: book
 
 - id: oliveira:2001ponte
@@ -1522,6 +1611,71 @@ references:
   type: thesis
   URL: https://repositorio.ufmg.br/handle/1843/BUOS-8GKMUQ
 
+- id: serlio:1547sesto
+  archive: Bayerische Staatsbibliothek München
+  archive_location: '189'
+  author:
+    - family: Serlio
+      given: Sebastiano
+  citation-key: serlio:1547sesto
+  event-place: Lyon
+  issued:
+    - year: 1547
+    - year: 1550
+  language: it
+  publisher-place: Lyon
+  title: 'Sesto libro d''architettura: Delle habitationi fuori e dentro delle città'
+  title-short: Sesto libro d'architettura
+  type: book
+  URL: https://opacplus.bsb-muenchen.de/title/BV023049640
+
+- id: silva:1986arquitetura
+  author:
+    - family: Silva Filho
+      given: Olavo Pereira
+      dropping-particle: da
+  citation-key: silva:1986arquitetura
+  issued:
+    - year: 1986
+  language: pt-BR
+  number-of-pages: '177'
+  publisher: Efecê
+  source: The Open Library
+  title: Arquitetura luso-brasileira no Maranhão
+  type: book
+
+- id: silva:2008arquitetura
+  author:
+    - family: Silva Filho
+      given: Olavo Pereira
+      dropping-particle: da
+  call-number: NA857.S295 S36 2008
+  citation-key: silva:2008arquitetura
+  container-title: >-
+    São Luís, Ilha do Maranhão e Alcântara: guia de arquitetura e paisagem = San
+    Luis, Isla de Marañón y Alcántara: guía de arquitectura y paisaje
+  editor:
+    - family: Lopes
+      given: José Antonio Viana
+    - family: Silva
+      given: Reinouds Lima
+    - family: Bogéa
+      given: Kátia Santos
+  event-place: 'São Luís : Sevilla'
+  ISBN: 978-84-8095-544-7
+  issued:
+    - year: 2008
+  language: pt-BR
+  page: 50-79
+  publisher: >-
+    Iphan, Ministério da Cultura : Secretaria Nacional de Programas Urbanos,
+    Ministério das Cidades ; Junta de Andalucía, Consejería de Obras Publicas y
+    Transportes
+  publisher-place: 'São Luís : Sevilla'
+  source: Library of Congress ISBN
+  title: Arquitetura tradicional luso-brasileira em São Luís do Maranhão
+  type: chapter
+
 - id: silva:2013arquitetura
   abstract: >-
     O presente trabalho refere-se à compreensão e análise do processo
@@ -1590,6 +1744,47 @@ references:
   title-short: Arquitetura civil portuguesa
   type: thesis
   URL: http://repositorio.unb.br/handle/10482/13256
+
+- id: silva:2022panorama
+  abstract: >-
+    Esta tese busca ordenar e sistematizar parte da arquitetura realizada em
+    Goiás durante os séculos XVIII, XIX e XX. Um panorama uniformizado
+    graficamente, contemplando sobreposições de conceitos e estilos através do
+    olhar sobre duzentos e dez edifícios. Organiza‐se assim uma crônica da
+    transformação da região por meio de suas edificações, demonstrando como
+    foram espelho de um ideal político, social e arquitetônico que permeou a
+    produção local. Para tal tarefa utilizo duas ferramentas: o levantamento e
+    registro dos exemplares mais significativos e a disposição do conhecimento
+    dos diferentes períodos da historiografia goiana. Com isso explicita‐se uma
+    síntese da arquitetura realizada em Goiás, oferecendo estrutura estável que
+    permita aos interessados formular conjecturas diversas ao analisar esse
+    acervo.
+  accessed:
+    - year: 2022
+      month: 9
+      day: 12
+  author:
+    - family: Silva Neto
+      given: Eurípedes Afonso
+      dropping-particle: da
+  citation-key: silva:2022panorama
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2022
+      month: 1
+      day: 21
+  language: pt-BR
+  license: Acesso Aberto
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  source: repositorio.unb.br
+  title: >-
+    Panorama da arquitetura em Goiás : séculos <span class="smallcaps">XVIII,
+    XIX</span> e <span class="smallcaps">XX</span>
+  title-short: Panorama da arquitetura em Goiás
+  type: thesis
+  URL: https://repositorio.unb.br/handle/10482/43399
 
 - id: silveira:2013levantamento
   abstract: >-
@@ -1686,6 +1881,29 @@ references:
   type: thesis
   URL: https://repositorio-aberto.up.pt/handle/10216/39475
 
+- id: trindade:2002casa
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 728 (469.322)
+  citation-key: trindade:2002casa
+  collection-number: '1'
+  collection-title: Coimbra - Património
+  event-place: Coimbra
+  ISBN: 978-972-97542-8-9
+  issued:
+    - year: 2002
+  language: pt
+  number-of-pages: '198'
+  publisher: Câmara Municipal
+  publisher-place: Coimbra
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    A casa corrente em Coimbra: dos finais da Idade Média aos inícios da Época
+    Moderna
+  title-short: A casa corrente em Coimbra
+  type: book
+
 - id: vasconcellos:1979arquitetura
   author:
     - family: Vasconcellos
@@ -1700,6 +1918,30 @@ references:
   publisher-place: Belo Horizonte
   source: Open WorldCat
   title: Arquitetura no Brasil, sistemas construtivos
+  type: book
+
+- id: vaz:2003casa
+  author:
+    - family: Vaz
+      given: Maria Diva Araújo Coelho
+    - family: Zárate
+      given: Maria Heloisa Veloso
+      dropping-particle: e
+  call-number: NA7299.G65 V39 2003
+  citation-key: vaz:2003casa
+  collection-number: '4'
+  collection-title: Série Raízes
+  event-place: Goiânia
+  ISBN: 978-85-7103-186-9
+  issued:
+    - year: 2003
+  language: pt-BR
+  number-of-pages: '257'
+  publisher: Editora da <span class="smallcaps">UCG</span>
+  publisher-place: Goiânia
+  source: Library of Congress ISBN
+  title: 'A casa goiana: documentação arquitetônica'
+  title-short: A casa goiana
   type: book
 
 - id: waisman:1993interior
