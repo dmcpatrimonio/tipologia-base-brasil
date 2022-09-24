@@ -1,5 +1,5 @@
 ---
-title: "Tipologia de casas urbanas luso-brasileiras segundo a profundidade visual"
+title: "Tipologia de casas urbanas luso-brasileiras segundo a integração visual"
 author:
 - Eduarda Toscano de Carvalho[^1]
 - Pedro P. Palazzo[^2]
@@ -49,7 +49,7 @@ entre as casas correntes e as senhoriais. Essa diferença reflete um
 matiz mais complexo de relações entre privacidade e publicidade da vida
 social entre as elites do Brasil escravista.
 
-# Tipologia das casas luso-brasileiras #
+# Contexto da edilícia de base luso-brasileira #
 
 ## Tipologia de casas correntes ##
 
@@ -91,6 +91,8 @@ século XIX.
 
 ![Sebastiano Serlio, variantes sincrônicas de casas correntes europeias (habitações de todas as classes de homens dentro da cidade n.º 45), do *Sesto libro d'architettura*, 1547–1551](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Serlio_VI_Libro_045-r.jpg/690px-Serlio_VI_Libro_045-r.jpg){#fig:serlio-corrente}
 
+## Tipologia de casas senhoriais ##
+
 ![Sebastiano Serlio, variante urbana de casa solarenga (casa do rico burguês ou mercador n.º 7), do *Sesto libro d'architettura*, 1547–1551](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Serlio_VI_Libro_007-r.jpg/708px-Serlio_VI_Libro_007-r.jpg){#fig:serlio-nobre}
 
 Ao mesmo tempo que se consolida a tipologia das casas correntes urbanas,
@@ -98,12 +100,22 @@ vê-se a formação de outra série tipológica, esta de origem rural: os
 solares e casas senhoriais. Ao contrário das moradas de casas que dão
 origem às casas correntes urbanas, formadas essencialmente por células
 de pequenas dimensões, a tipologia solarenga se estrutura em torno de um
-ou mais salões de grandes dimensões. Uma de muitas variantes
-pan-europeias dessa tipologia é também ilustrada por Serlio
-([@fig:serlio-nobre]). Ambas séries tipológicas, bem como alguns
-remanescentes das moradas de casas mais simples, constituem o universo
-da habitação urbana produzida durante e após a colonização da América
-portuguesa.
+ou mais salões de grandes dimensões, eventualmente associados a pátios.
+Uma de muitas variantes pan-europeias dessa tipologia é também ilustrada
+por Serlio ([@fig:serlio-nobre]). Ambas séries tipológicas, bem como
+alguns remanescentes das moradas de casas mais simples, constituem o
+universo da habitação urbana produzida durante e após a colonização da
+América portuguesa.
+
+Ao contrário das casas correntes, onde as restrições do lote urbano
+impõem uma distribuição longitudinal, as casas senhoriais ou solares
+apresentam distribuições centralizadas, quando não são dominadas por
+enfiadas transversais. Neste caso, sua volumetria tem reduzida
+profundidade, às vezes com apenas um conjunto de salas sobre a fachada e
+outro sobre a elevação posterior. Este é o protótipo da casa nobre
+ibérica: um solar rural que, por derivação social, também é atestado na
+habitação urbana da aristocracia durante a Idade Moderna
+[@neves:2013duas].
 
 ## Casa brasileira ##
 
@@ -166,14 +178,35 @@ são:
    calor do fogo, pouco importante nos climas amenos do mundo atlântico
    português.
 
+## Transformações e influências ##
+
 Apenas no final do século XIX é que se pode ver a marca inconfundível de
 transformações diacrônicas operadas pela renovação dos modos de morar e
 dos comportamentos domésticos. A principal será a adição longitudinal de
 uma zona de "serviço" às já existentes zonas "social" e "íntima"
 [@lemos:1976cozinhas]. Já a introdução do afastamento lateral no lote
 urbano, por esta mesma época, provoca uma compactação e reorganização da
-circulação interior da morada, com eventual reposicionamento das zonas
-"íntima" e "social" [@lemos:1999republica; @lemos:1989alvenaria].
+circulação interior da morada, com eventual (mas não necessário)
+reposicionamento das zonas "íntima" e "social" [@lemos:1999republica;
+@lemos:1989alvenaria].
+
+Um argumento recorrente na historiografia da casa brasileira diz
+respeito ao papel que as influências estrangeiras à tradição portuguesa
+tiveram no desenvolvimento arquitetônico do século XIX. O papel
+transformador do ensino acadêmico pretensamente introduzido por
+Grandjean de Montigny [@morales:1941grandjean] tem sido questionado
+desde o último quartel do século XX. Esse questionamento consiste,
+sobretudo, em relativizar a adoção dos modelos franceses no Brasil
+imperial, em prol seja de um reequilíbrio com modelos italianos e
+britânicos, seja de uma defesa de uma autonomia do estilo classicista
+brasileiro --- por sinal, também em face da própria tradição de origem
+portuguesa [@sousa:1994arquitetura]. Nesta linha, os exemplares de casas
+senhoriais de nítido cariz francês são tidos por pouco consequentes no
+conjunto da produção solarenga no Brasil imperial.
+
+# Metodologia #
+
+## Nomenclatura ##
 
 A nomenclatura habitual dos tipos edilícios de base no Brasil não
 recobre todas as manifestações da morada tradicional e, pior ainda, não
@@ -189,16 +222,13 @@ regionais [por exemplo em @moutinho:1995arquitectura;
 em grande medida estabilizada na bibliografia e da qual não será
 possível divergir significativamente.
 
-Por isso,
-o diagrama a seguir ([@fig:nomenclatura]) oferece tanto uma síntese dos
+O diagrama a seguir ([@fig:nomenclatura]) oferece tanto uma síntese dos
 processos tipológicos acima descritos, quanto uma proposta de
 nomenclatura padronizada, baseada sempre que possível nas convenções já
 consagradas na literatura. Essa nomenclatura será doravante usada neste
 artigo para se referir aos tipos cujos partidos ilustram o diagrama.
 
 ![Tipologia e nomenclatura de casas portuguesas e luso-brasileiras, elaborado pelos autores](media/image1.emf){#fig:nomenclatura}
-
-# Metodologia #
 
 ## Recorte cronológico e geográfico ##
 
@@ -266,7 +296,8 @@ Para a execução da pesquisa, foram selecionadas plantas, em sua maioria,
 de uso residencial e algumas de uso institucional. A qualificação
 inicial para a seleção se baseou nas informações obtidas e na qualidade
 gráfica das representações, garantindo que estariam dentro do período de
-XVIII a XX, que fossem no Brasil e de possível reconhecimento visual. 
+XVIII ao início do XX, que fossem no Brasil e de possível reconhecimento
+visual. 
 
 Em seguida, as obras foram organizadas de forma cronológica e
 preenchidas as informações existentes de localização (endereço), cidade,
@@ -357,7 +388,7 @@ já que os novos sistemas estruturais permitiam um maior número de
 aberturas, não sendo mais necessário a execução do rasgo para aumentar a
 entrada de luz.
 
-## Transformação diacrônica ##
+## Transformação diacrônica e variantes sincrônicas ##
 
 <!--
    -Única transformação significativa é a introdução do partido com
@@ -366,32 +397,75 @@ entrada de luz.
 
 As casas brasileiras sofreram diversas adaptações ao longo do período
 estudado, como a especialização das atividades nos cômodos e a
-introdução de novos sistemas construtivos. Entretanto, a transformação
-mais significativa é a introdução das moradas ecléticas, partido
+introdução de novos sistemas construtivos. Todavia, a transformação mais
+significativa é a introdução das moradas ecléticas, partido
 caracterizado pelo afastamento do volume principal das habitações em
 relação aos limites do lote e o acesso feito pela lateral das casas.
 
-## Variantes sincrônicas ##
+A deslocação da entrada principal da testada para o meio da elevação
+lateral, nas casas ecléticas, se sobrepõe num primeiro momento a plantas
+de morada tradicionais. Por isso, ela não altera de modo significativo a
+integração visual dos ambientes nem a direção do eixo integrador
+principal. Este eixo permanece longitudinal, dissipando-se do centro
+morfológico situado na "varanda" ou sala íntima principal da casa, ao
+longo do corredor longitudinal.
+
+No entanto, a nova disposição da entrada abre caminho para reorganizar a
+configuração das distribuições, em tempo substituindo o corredor
+longitudinal por um *hall* compacto e amiúde transversal. Esta
+distribuição é atestada nos palacetes paulistanos de finais do século
+XIX e início do XX.
 
 <!--
    -Maior variabilidade nos tipos solarengos, maior uniformidade nas moradas
    -de casas / meia morada / inteira
    -->
 
-## Duas classes tipológicas
+Não obstante essa transformação diacrônica nas distribuições da casa de
+morada tradicional para a casa eclética, a característica dominante do
+período que vai de meados do século XVIII ao início do XX é de variantes
+sincrônicas --- diferentes configurações de casas de morada e de solares
+que ocorrem de modo relativamente estável ao longo de todo o período.
+Essas variantes podem ser agrupadas em duas grandes classes morfológicas
+que correspondem às tipologias convencionalmente reconhecidas para a
+habitação tradicional luso-brasileira: as casas de morada, configuração
+por excelência urbana e de classe média, e as casas senhoriais, sedes de
+uma aristocracia (ou oligarquia) de cariz predominantemente rural.
 
-A maior parte das moradias estudadas apresentam plantas próximas ao
-formato retangular, indicando as duas principais possibilidades de
-integração no interior das moradias: longitudinal e transversal. A
-análise dos mapas de visibilidade apresenta a predominância dos fluxos
-longitudinais, tanto nas casas de subgrupos das habitações de frente
-estreita quanto das de frente larga. A passagem longitudinal é muitas
-vezes marcada pelo corredor, que estrutura e distribui os fluxos
-internos.
+Na tipologia das casas senhoriais há uma maior variabilidade de
+configurações, especialmente no tocante ao modo de distribuição
+espacial. As conexões diretas entre salas são o modo predominante de
+distribuição, mas vários exemplares apresentam também corredores
+transversais, especialmente onde a planta tem mais de dois ambientes na
+sua profundidade longitudinal. Algumas casas senhoriais apresentam,
+ainda, alas posteriores com corredor longitudinal.
+
+# Discussão dos resultados #
+
+Os gráficos de visibilidade obtidos pelo processamento no programa
+DepthMapX podem ser agrupados em duas classes dominantes: aqueles onde o
+eixo integrador (zona quente do gráfico) é longitudinal com respeito ao
+percurso do usuário desde a testada até os fundos da casa, e aqueles
+onde há um ou mais eixos integradores transversais, com menor
+importância para a circulação longitudinal. A configuração longitudinal
+é encontrada em todos os exemplares da tipologia de casas de morada e
+também em alguns exemplares de casas senhoriais. Já a configuração
+transversal ocorre na maioria dos exemplares de tipologia solarenga.
+
+As diferenças na integração espacial entre as casas de morada e as casas
+senhoriais são esperadas e confirmam os argumentos habitualmente
+avançados na bibliografia sobre a morada luso-brasileira, especialmente
+quanto aos papéis sócio-espaciais dos diferentes ambientes que compõem
+essas duas classes tipológicas. Embora a reclusão da família patriarcal
+na discrição do lar seja a tônica geral da espacialidade doméstica
+[@alencastro:1997vida2], os tipos de casas senhoriais refletem, na sua
+morfologia senão no próprio modo de vida, o aparato de representação da
+aristocracia fundiária --- salões de grandes dimensões e,
+ocasionalmente, pátios.
 
 Abaixo, são apresentados alguns exemplos dos estudos de caso com
 identificação, data provável de construção, cidade ou estado, tipologia
-as direções predominantes dos fluxos internos.
+e direções predominantes dos fluxos internos.
 
 ![](media/image2.png){width="0.6979166666666666in"
 height="2.3in"}![](media/image3.png){width="0.7527777777777778in"

@@ -25,6 +25,41 @@ references:
   type: article-journal
   URL: https://comum.rcaap.pt/handle/10400.26/3662
 
+- id: alencastro:1997vida2
+  abstract: >-
+    "Excellent essays by top scholars (F. Novais, L. de Mello e Souza, L. Mezan
+    Algranti, L. Mott, R. Vainfas, M. del Priore, L. Villalta, and I. Jancso)
+    focus on economic, political, and social issues related to private life in
+    colonial Brazil. Beautifully illustrated and engagingly written. Highly
+    recommended"--Handbook of Latin American Studies, v. 58
+  author:
+    - family: Alencastro
+      given: Luiz Felipe
+      dropping-particle: de
+  call-number: GT2402.B6 H57 1997
+  citation-key: alencastro:1997vida2
+  collection-editor:
+    - family: Novais
+      given: Fernando A.
+  container-title: História da vida privada no Brasil
+  editor:
+    - family: Alencastro
+      given: Luiz Felipe
+      dropping-particle: de
+  event-place: São Paulo
+  ISBN: 978-85-7164-681-0
+  issued:
+    - year: 1997
+  language: pt-BR
+  page: 11–94
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: Vida privada e ordem privada no Império
+  title-short: Introdução
+  type: chapter
+  volume: '2'
+
 - id: amorim:2006estudo
   abstract: "Resumo\n\t\t\t\t\tEste trabalho visa à conceituação de tipologia morfológica como instrumento de pesquisa na\_análise da paisagem urbana. Em um primeiro momento discorremos sobre os conceitos tipologia\_e morfologia segundo teóricos como Quatremère de Quincy, Giulio Carlo Argan, Aldo Rossi e Rob Krier, e ainda, José Lamas e Josep Montaner. Em um segundo momento discorremos sobre\_o conceito de tipologia morfológica, uma análise da paisagem que associa o instrumento de\_pesquisa da tipologia ao da morfologia. Para finalizar é apresentado um exemplo de aplicação desta análise num recorte da cidade de Belo Horizonte, Minas Gerais."
   accessed:
@@ -1202,6 +1237,21 @@ references:
   type: article-journal
   URL: https://cabodostrabalhos.ces.uc.pt/n12/ensaios.php
 
+- id: morales:1941grandjean
+  author:
+    - family: Morales de los Rios Filho
+      given: Adolfo
+  citation-key: morales:1941grandjean
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1941
+  language: pt-BR
+  publisher: A Noite
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Grandjean de Montigny e a evolução da arte brasileira
+  type: book
+
 - id: moutinho:1995arquitectura
   author:
     - family: Moutinho
@@ -1217,6 +1267,49 @@ references:
   source: Open WorldCat
   title: Arquitectura popular portuguesa
   type: book
+
+- id: neves:2013duas
+  abstract: >-
+    A presente dissertação pretende aprofundar o conhecimento da casa nobre do 
+
+    Algarve e de Loulé em particular, inserida num contexto nacional de produção
+    artística 
+
+    do antigo regime. Propõe uma abordagem que, para além da identificação e 
+
+    interpretação dos edifícios ainda existentes na região, incide sobre dois
+    estudos de 
+
+    casos apresentados de forma monográfica. Desenvolve-se em torno das questões
+    da 
+
+    encomenda enquanto imagem histórico-social, autoria, formalização de
+    fachadas, 
+
+    distribuição funcional do espaço interior e contexto urbano, buscando a
+    génese formal, 
+
+    numa tentativa de confirmação da sua raiz de filiação erudita.
+  accessed:
+    - year: 2019
+      month: 2
+      day: 14
+  author:
+    - family: Neves
+      given: Suzinda do Nascimento Correia
+  citation-key: neves:2013duas
+  event-place: Faro
+  genre: Dissertação (mestrado em História da Arte)
+  issued:
+    - year: 2013
+  language: pt-PT
+  license: openAccess
+  publisher: Universidade do Algarve
+  publisher-place: Faro
+  source: sapientia.ualg.pt
+  title: Duas casas nobres do antigo regime em Loulé
+  type: thesis
+  URL: https://sapientia.ualg.pt/handle/10400.1/5049
 
 - id: oliveira:1986casas
   author:
