@@ -350,6 +350,27 @@ references:
   title-short: Tipologie dell'abitare
   type: paper-conference
 
+- id: corona:2000ensaio
+  author:
+    - family: Corona Martínez
+      given: Alfonso
+  citation-key: corona:2000ensaio
+  event-place: Brasília
+  ISBN: 978-85-230-0579-5
+  issued:
+    - year: 2000
+  language: pt-BR
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Ensaio sobre o projeto
+  translator:
+    - family: Spaltemberg
+      given: Ane Lise
+    - family: Ficher
+      given: Sylvia
+  type: book
+
 - id: correia:2004construcao
   author:
     - family: Correia

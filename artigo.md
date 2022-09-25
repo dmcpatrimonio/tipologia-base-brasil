@@ -1,13 +1,13 @@
 ---
-title: "Tipologia de casas urbanas luso-brasileiras segundo a integração visual"
+title: "Integração espacial de casas urbanas e suburbanas luso-brasileiras dos séculos XVIII e XIX"
 author:
 - Eduarda Toscano de Carvalho[^1]
 - Pedro P. Palazzo[^2]
 date: "Programa de Iniciação Científica 2021–2022"
-abstract: |
-  **Resumo.**
-
-  **Palavras-chave.**
+#abstract: |
+#  **Resumo.**
+#
+#  **Palavras-chave.**
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl
 bibliography: "biblio.yaml"
 ---
@@ -237,15 +237,20 @@ datadas de meados do século XVIII ao início do século XX já publicadas
 na literatura ou disponíveis em acervos digitalizados. Nesse universo,
 predominam os exemplares de casas correntes, muitos deles sobrados,
 sobre os solares, por serem aqueles mais difundidos nos tecidos urbanos.
-O conjunto da amostra se concentra nos territórios goiano, mineiro e
-fluminense. Trata-se de uma opção metodológica por contornar o contexto
+O conjunto da amostra se concentra nos territórios goiano e mineiro, com
+alguns exemplares do litoral do Norte e Nordeste, bem como do estado do
+Rio de Janeiro. Trata-se de uma opção metodológica por contornar o contexto
 paulista, já amplamente estudado na literatura [@lemos:1999casa;
 @lemos:1989alvenaria], e os casos idiossincráticos das principais
-cidades do Nordeste [@oliveira:1986casas; @silva:1986arquitetura].
+cidades do Nordeste [@oliveira:1986casas; @silva:1986arquitetura]. Além
+disso, o recorte geográfico fortalece a clareza do recorte cronológico,
+uma vez que toda a arquitetura do *hinterland* brasileiro é sabidamente
+posterior às primeiras décadas do século XVIII, e os exemplares
+litorâneos escolhidos têm trajetórias históricas bem documentadas.
 
 Na maioria dos casos, a datação das edificações é aproximada ou incerta
 devido à carência de fontes documentais e à já mencionada insuficiência
-de critérios formais ou estilísticos. Por isso, em vez de ordenar os
+de critérios formais ou estilísticos. Por isso, onde não foi possível ordenar os
 exemplos analisados numa sequência cronológica simples, eles foram
 agrupados em quatro grandes períodos com base na datação oferecida pela
 literatura ou por atribuição arquivística:
@@ -341,7 +346,7 @@ Deve-se ter em mente as modificações que algumas casas sofreram ao longo
 dos anos. A originalidade formal das casas não foi considerada um
 aspecto fundamental para as análises. 
 
-# Resultados #
+# Resultados e discussão #
 
 ## Caracterização da amostra ##
 
@@ -440,10 +445,10 @@ transversais, especialmente onde a planta tem mais de dois ambientes na
 sua profundidade longitudinal. Algumas casas senhoriais apresentam,
 ainda, alas posteriores com corredor longitudinal.
 
-# Discussão dos resultados #
+## Duas séries tipológicas ##
 
 Os gráficos de visibilidade obtidos pelo processamento no programa
-DepthMapX podem ser agrupados em duas classes dominantes: aqueles onde o
+DepthMapX podem ser agrupados em duas séries dominantes: aqueles onde o
 eixo integrador (zona quente do gráfico) é longitudinal com respeito ao
 percurso do usuário desde a testada até os fundos da casa, e aqueles
 onde há um ou mais eixos integradores transversais, com menor
@@ -452,77 +457,118 @@ importância para a circulação longitudinal. A configuração longitudinal
 também em alguns exemplares de casas senhoriais. Já a configuração
 transversal ocorre na maioria dos exemplares de tipologia solarenga.
 
-As diferenças na integração espacial entre as casas de morada e as casas
+As diferenças na integração espacial entre as casas correntes e as casas
 senhoriais são esperadas e confirmam os argumentos habitualmente
 avançados na bibliografia sobre a morada luso-brasileira, especialmente
 quanto aos papéis sócio-espaciais dos diferentes ambientes que compõem
-essas duas classes tipológicas. Embora a reclusão da família patriarcal
-na discrição do lar seja a tônica geral da espacialidade doméstica
-[@alencastro:1997vida2], os tipos de casas senhoriais refletem, na sua
-morfologia senão no próprio modo de vida, o aparato de representação da
-aristocracia fundiária --- salões de grandes dimensões e,
-ocasionalmente, pátios.
+essas duas classes tipológicas. A reclusão da família patriarcal na
+discrição do lar é, assim, a tônica geral da espacialidade doméstica
+urbana [@alencastro:1997vida2]. Ela é evidenciada na elevada
+profundidade da varanda comunal que, apesar de ser o ambiente mais
+integrado da casa corrente, não é facilmente acessível desde o exterior.
+Pelo contrário, os tipos de casas senhoriais refletem, na sua morfologia
+senão no próprio modo de vida, o aparato de representação da
+aristocracia fundiária herdada do Antigo Regime: salões de grandes
+dimensões integrados em enfiadas transversais e facilmente acessíveis
+numa estrutura morfologicamente rasa.
 
-Abaixo, são apresentados alguns exemplos dos estudos de caso com
-identificação, data provável de construção, cidade ou estado, tipologia
-e direções predominantes dos fluxos internos.
+## Hibridização ##
 
-![](media/image2.png){width="0.6979166666666666in"
-height="2.3in"}![](media/image3.png){width="0.7527777777777778in"
-height="1.5104166666666667in"}![](media/image4.png){width="1.0069444444444444in"
-height="1.23125in"}
+No entanto, a cisão entre a tipologia das casas urbanas morfologicamente
+profundas e a das casas senhoriais acessíveis não é estanque: alguns
+exemplares realizam uma hibridização entre os dois esquemas. Como
+discutido acima, a arquitetura doméstica luso-brasileira se constitui
+enquanto síntese de processos tipológicos já consolidados no Portugal
+medieval, cruzando variantes sincrônicas de diferentes regiões. Para
+além dessa síntese, verifica-se também na arquitetura urbana do Brasil a
+junção das variantes rurais e urbanas resultantes dessa síntese.
 
-![](media/image5.png){width="1.2041666666666666in"
-height="1.2083333333333333in"}![](media/image6.png){width="0.9493055555555555in"
-height="1.40625in"}![](media/image7.png){width="0.8333333333333334in"
-height="1.351388888888889in"}
+A hibridização tipológica é um fenômeno reconhecido em contextos de
+crescente complexidade de soluções habitacionais, especialmente no
+âmbito das cidades latino-americanas da Idade Contemporânea
+[@corona:2000ensaio]. Na amostra de arquitetura urbana desta pesquisa,
+exemplares de características híbridas entre as tipologias da casa
+corrente e da casa senhorial são observados de duas formas distintas.
 
-![](media/image8.png){width="0.9018088363954506in"
-height="2.0423304899387578in"}![](media/image9.png){width="1.0851760717410324in"
-height="1.1233048993875765in"}![](media/image10.png){width="0.7907950568678915in"
-height="1.5043482064741907in"}
+A primeira forma de hibridização, atestada desde meados do século XVIII,
+senão antes, parte da casa corrente urbana como tipo de substrato. Ela
+desdobra lateralmente enfiadas de salas quadradas ou alongadas.
+Esta configuração dava a essas casas de elite características de
+integração mais próximas às da casa senhorial, como eixos visuais
+quentes na direção transversal e mais próximos da testada.
 
-![](media/image11.png){width="1.2956528871391075in"
-height="0.6741918197725284in"}
-
-![](media/image12.png){width="0.8764468503937007in"
-height="1.251599956255468in"}
-
-![](media/image13.png){width="0.9201388888888888in" height="0.7125in"}
-
-![](media/image14.png){width="0.6638888888888889in"
-height="1.823611111111111in"}
-
-![](media/image15.png){width="0.9638888888888889in"
-height="1.1298611111111112in"}![](media/image16.png){width="0.9677416885389326in"
-height="1.1739129483814523in"}
+A segunda forma de hibridização comparece com mais frequência no século
+XIX e faz o percurso inverso, tomando a casa senhorial como tipo de
+substrato. Este processo insere na configuração de salões da casa
+senhorial um eixo central formado por um vestíbulo eventualmente seguido
+de antessalas, fortalecendo a ligação longitudinal da testada ao salão
+ou pátio principal. Com isso, a integração transversal dominante é
+temperada por uma crescente integração longitudinal que aproxima essas
+casas senhoriais da tipologia de casas correntes.
 
 # Conclusão #
 
 Durante todo o período estudado, constatou-se a constância do centro
-morfológico das casas correntes e dos solares. Salões e varandas
-voltadas para o quintal, as áreas de passagem, como corredores, assim
-como pátios internos, como as áreas mais quentes, ou seja, mais
-acessíveis. As áreas
+morfológico das casas correntes e senhoriais. Na tipologia das casas
+correntes, as varandas voltadas para o quintal, os corredores
+longitudinais, assim como pátios internos, como as áreas mais quentes,
+ou seja, mais acessíveis. Na tipologia das casas senhoriais, os salões
+de recepção apresentam-se como o centro morfológico, que se expande
+transversalmente para outras salas de aparato posicionadas em enfiada.
+
+Em ambas as séries tipológicas, as áreas
 mais frias, ou seja, menos acessíveis, se mantiveram nas áreas de puxados e
 laterais das casas. Mesmo os anexos e áreas de serviços serem os pontos
 menos acessíveis nas casas, percebeu-se que se localizavam relativamente
-próximos às áreas centrais. Foi confirmada a primazia da zona íntima nas
+próximos às áreas centrais. Foi confirmada a primazia da varanda íntima nas
 casas de morada ou do salão nos tipos solarengos, onde centro quente nas
-residências permaneceu constante entre os séculos XVIII e XX.
+residências permaneceu constante entre os séculos XVIII e XIX.
+
+As principais variantes observadas dizem respeito à introdução do
+afastamento lateral nas casas correntes, bem como à hibridização das
+duas séries tipológicas entre si. No entanto, o afastamento lateral,
+característico da arquitetura eclética de finais do século XIX, pouco
+afeta a integração espacial e a centralidade morfológica das casas
+correntes. Antes, o acesso direto à varanda desde o afastamento
+intensifica a centralidade desse ambiente na configuração doméstica. A
+alteração nesse caso é sobretudo sociológica, dando um caráter mais
+público ao que era o principal ambiente íntimo da casa de morada
+luso-brasileira.
+
+Por outro lado, as hibridizações tipológicas alteram sensivelmente a
+integração visual dos tipos de casas correntes e senhoriais,
+transferindo, como era de se esperar, características morfológicas entre
+eles. Os tipos híbridos podem ser identificados com clareza como
+partindo de um substrato de casa corrente ou senhorial, adquirindo
+apenas de modo complementar as características do outro tipo.
+
+Esta pesquisa concentrou-se em exemplares da arquitetura doméstica
+construídos no Brasil em meio urbano ou suburbano, isto é, casas
+isoladas porém afetadas por um tecido de crescimento urbano no seu
+entorno. De modo a obter um recorte cronológico mais nítido, privilegiou
+conjuntos urbanos nas regiões de mineração --- Minas Gerais e Goiás ---,
+onde não haveria construções anteriores a meados do século XVIII, bem
+como alguns exemplares litorâneos de trajetória bem documentada. A mesma
+análise poderá, com as devidas precauções, ser aplicada a casas em
+contexto inteiramente rural e expandido o recorte cronológico para
+períodos mais antigos da colonização, e por que não explorar com mais
+detalhe as transformações na configuração doméstica realizadas na
+primeira metade do século XX.
 
 # Referências #
 
 ::: {#refs}
 :::
 
-# Typology of Luso-Brazilian Base Building According to Visual Depth #
-
-:::::::::::::::::::::::::::::::::::::::::::::: {custom-style="Abstract"}
-**Abstract.**
-
-**Keywords.**
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<!--
+   -# Typology of Luso-Brazilian Base Building According to Visual Depth #
+   -
+   -:::::::::::::::::::::::::::::::::::::::::::::: {custom-style="Abstract"}
+   -**Abstract.**
+   -
+   -**Keywords.**
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -->
 
 
 [^1]: Estudante de graduação em Arquitetura e Urbanismo na Universidade
