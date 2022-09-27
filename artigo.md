@@ -10,6 +10,7 @@ date: "Programa de Iniciação Científica 2021–2022"
 #  **Palavras-chave.**
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/elsevier-harvard.csl
 bibliography: "biblio.yaml"
+figureTitle: Figura
 ---
 
 # Introdução #
@@ -89,11 +90,11 @@ certa homogeneidade morfológica dentro de uma gama de variantes
 sincrônicas que se estabilizam entre o final da Idade Média e finais do
 século XIX.
 
-![Sebastiano Serlio, variantes sincrônicas de casas correntes europeias (habitações de todas as classes de homens dentro da cidade n.º 45), do *Sesto libro d'architettura*, 1547–1551](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Serlio_VI_Libro_045-r.jpg/690px-Serlio_VI_Libro_045-r.jpg){#fig:serlio-corrente}
+![Sebastiano Serlio, variantes sincrônicas de casas correntes europeias (habitações de todas as classes de homens dentro da cidade n.º 45), do *Sesto libro d'architettura*, 1547–1551](media/Serlio_VI_Libro_045-r.jpg){#fig:serlio-corrente}
 
-## Tipologia de casas senhoriais ##
+## Tipologia de solares ##
 
-![Sebastiano Serlio, variante urbana de casa solarenga (casa do rico burguês ou mercador n.º 7), do *Sesto libro d'architettura*, 1547–1551](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Serlio_VI_Libro_007-r.jpg/708px-Serlio_VI_Libro_007-r.jpg){#fig:serlio-nobre}
+![Sebastiano Serlio, variante urbana de casa solarenga (casa do rico burguês ou mercador n.º 7), do *Sesto libro d'architettura*, 1547–1551](media/Serlio_VI_Libro_007-r.jpg){#fig:serlio-nobre}
 
 Ao mesmo tempo que se consolida a tipologia das casas correntes urbanas,
 vê-se a formação de outra série tipológica, esta de origem rural: os
@@ -359,19 +360,21 @@ visibilidade, indica que em 40% das edificações a área mais quente, ou
 seja, morfologicamente mais acessível, se localizava ao centro, enquanto a área menos
 frequentada, mais fria, se concentrada nos fundos e nas laterais (17%).
 
+![Residência Lia do Carmo Lima, Taguatinga, Tocantins, c. 1902--1931. @vaz:2003casa](media/br-go_to-taguatinga-plantas_residenciais-residencia_lia_do_carmo_lima.png){#fig:lia}
+
 Em vários casos, a parte considerada como central é a parte posterior da
-volumetria principal, mas central se considerar os puxados de serviço.
+volumetria principal, mas central se considerar os puxados de serviço ([@fig:lia]).
 Também devem ser destacadas as casas onde o centro se apresentou como
 uma área fria e as laterais e fachadas como áreas quentes.
 
-A tipologia de morada inteira foi a mais encontrada entre as casas de
+O tipo da morada inteira foi a mais encontrada entre as casas de
 cronologia incerta (século XVIII ou XIX) (61%).
 As janelas mais comuns eram as de peitoril (89%) e habitações de 5 a 15
 cômodos. Os mapas de visibilidade mostraram que o centro era a área mais
 frequentada nas casas (33%), entretanto o centro e fundos também foram
 marcados como as áreas mais frias (18%).
 
-A tipologia edilícia mais significativa no século XIX foi a casa nobre (36%), seguido
+O tipo edilício mais significativo no século XIX foi a casa nobre (36%), seguido
 pela morada eclética (18%) e morada inteira (18%). Predominavam as
 janelas de peitoril (55%) e casas de 11 a 15 cômodos (36%). A provável
 movimentação interna, medida pelo mapa de visibilidade, indica que em
@@ -380,7 +383,7 @@ a área mais fria se concentrada nos fundos e nas laterais (13%) ou em
 toda a edificação (13%). Entretanto, vários casos possuem suas áreas
 quentes e frias em diferentes cômodos.
 
-A tipologia de morada inteira foi a mais encontrada entre os exemplares
+O tipo da morada inteira foi a mais encontrada entre os exemplares
 do século XIX tardio ou início do XX (50%),
 seguido pela casa bandeirista ou Palladiano (25%) e casa nobre (25%).
 Todas as casas possuíam janelas de peitoril e habitações de 6 a 10
@@ -429,21 +432,13 @@ XIX e início do XX.
 Não obstante essa transformação diacrônica nas distribuições da casa de
 morada tradicional para a casa eclética, a característica dominante do
 período que vai de meados do século XVIII ao início do XX é de variantes
-sincrônicas --- diferentes configurações de casas de morada e de solares
+sincrônicas --- diferentes configurações de casas correntes e de solares
 que ocorrem de modo relativamente estável ao longo de todo o período.
-Essas variantes podem ser agrupadas em duas grandes classes morfológicas
-que correspondem às tipologias convencionalmente reconhecidas para a
+Essas variantes podem ser agrupadas em duas grandes séries tipológicas
+que correspondem às morfologias convencionalmente reconhecidas para a
 habitação tradicional luso-brasileira: as casas de morada, configuração
 por excelência urbana e de classe média, e as casas senhoriais, sedes de
 uma aristocracia (ou oligarquia) de cariz predominantemente rural.
-
-Na tipologia das casas senhoriais há uma maior variabilidade de
-configurações, especialmente no tocante ao modo de distribuição
-espacial. As conexões diretas entre salas são o modo predominante de
-distribuição, mas vários exemplares apresentam também corredores
-transversais, especialmente onde a planta tem mais de dois ambientes na
-sua profundidade longitudinal. Algumas casas senhoriais apresentam,
-ainda, alas posteriores com corredor longitudinal.
 
 ## Duas séries tipológicas ##
 
@@ -472,6 +467,16 @@ aristocracia fundiária herdada do Antigo Regime: salões de grandes
 dimensões integrados em enfiadas transversais e facilmente acessíveis
 numa estrutura morfologicamente rasa.
 
+Mesmo assim, na tipologia das casas senhoriais há uma maior variabilidade de
+configurações, especialmente no tocante ao modo de distribuição
+espacial. As conexões diretas entre salas são o modo predominante de
+distribuição, mas vários exemplares apresentam também corredores
+transversais ([@fig:joaquina]), especialmente onde a planta tem mais de dois ambientes na
+sua profundidade longitudinal. Algumas casas senhoriais apresentam,
+ainda, alas posteriores com corredor longitudinal.
+
+![Residência D. Joaquina, São Domingos Goiás, século XIX? @vaz:2003casa](media/br-go-sao_domingos-plantas_residenciais-residencia_dona_joaquina.png){#fig:joaquina}
+
 ## Hibridização ##
 
 No entanto, a cisão entre a tipologia das casas urbanas morfologicamente
@@ -495,7 +500,9 @@ senão antes, parte da casa corrente urbana como tipo de substrato. Ela
 desdobra lateralmente enfiadas de salas quadradas ou alongadas.
 Esta configuração dava a essas casas de elite características de
 integração mais próximas às da casa senhorial, como eixos visuais
-quentes na direção transversal e mais próximos da testada.
+quentes na direção transversal e mais próximos da testada ([@fig:princesa]).
+
+![Casa da Princesa, Pilar de Goiás, c. 1750. @silva:2022panorama](media/br-go-pilar-1750c-casa_da_princesa-casa_do_patrimonio_em_pilar_de_goias.png){#fig:princesa}
 
 A segunda forma de hibridização comparece com mais frequência no século
 XIX e faz o percurso inverso, tomando a casa senhorial como tipo de
@@ -556,9 +563,6 @@ detalhe as transformações na configuração doméstica realizadas na
 primeira metade do século XX.
 
 # Referências #
-
-::: {#refs}
-:::
 
 <!--
    -# Typology of Luso-Brazilian Base Building According to Visual Depth #

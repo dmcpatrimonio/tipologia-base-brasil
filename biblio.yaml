@@ -865,7 +865,7 @@ references:
 - id: lemos:1976cozinhas
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   call-number: NA7300.S26 L454
   citation-key: lemos:1976cozinhas
   collection-title: 'Debates ; 94 : arquitetura'
@@ -884,7 +884,7 @@ references:
 - id: lemos:1979arquitetura
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   citation-key: lemos:1979arquitetura
   event-place: São Paulo
   issued:
@@ -899,14 +899,14 @@ references:
 - id: lemos:1989alvenaria
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   citation-key: lemos:1989alvenaria
   edition: '2'
   event-place: São Paulo
   ISBN: 978-85-213-0465-4
   issued:
     - year: 1989
-  language: Portuguese
+  language: pt-BR
   publisher: Nobel
   publisher-place: São Paulo
   source: Open WorldCat
@@ -919,13 +919,13 @@ references:
 - id: lemos:1996historia
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   citation-key: lemos:1996historia
   event-place: São Paulo
   ISBN: 978-85-85134-53-2
   issued:
     - year: 1996
-  language: Portuguese
+  language: pt-BR
   publisher: Contexto
   publisher-place: São Paulo
   source: Open WorldCat
@@ -935,13 +935,13 @@ references:
 - id: lemos:1999casa
   author:
     - family: Lemos
-      given: Carlos A[lberto] C[erqueira]
+      given: Carlos A. C.
   citation-key: lemos:1999casa
   event-place: São Paulo
   ISBN: 978-85-314-0471-9
   issued:
     - year: 1999
-  language: Portuguese
+  language: pt-BR
   publisher: Edusp
   publisher-place: São Paulo
   source: Open WorldCat
@@ -954,7 +954,7 @@ references:
 - id: lemos:1999republica
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   citation-key: lemos:1999republica
   event-place: São Paulo
   ISBN: 978-85-271-0461-6
@@ -1504,7 +1504,7 @@ references:
     - year: 2016
       month: 7
       day: 11
-  language: Portuguese
+  language: pt-BR
   license: openAcces
   medium: text
   publisher: Universidade Federal do Espírito Santo
@@ -1527,7 +1527,7 @@ references:
   publisher: <span class="smallcaps">FAUUSP</span>
   publisher-place: São Paulo
   source: dedalus.usp.br Library Catalog
-  title: Lote urbano e a arquitetura no brasil
+  title: Lote urbano e a arquitetura no Brasil
   type: book
 
 - id: reis:1983quadro
@@ -2051,7 +2051,7 @@ references:
     - year: 2003
   language: pt-BR
   number-of-pages: '257'
-  publisher: Editora da <span class="smallcaps">UCG</span>
+  publisher: Editora UCG
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
@@ -2087,7 +2087,7 @@ references:
   ISBN: 978-85-7827-504-4
   issued:
     - year: 2005
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
